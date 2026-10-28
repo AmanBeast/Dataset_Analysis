@@ -9,7 +9,7 @@
 
 A curated repository of production-grade **Data Analytics**, **Business Intelligence (BI)**, and **Predictive Modeling** case studies authored by **Aman Bisht**. Each project reflects the full analytical value chain: from raw messy data ingestion and ETL preprocessing to relational database modeling, advanced analytical querying, executive dashboarding, and interactive decision deployment.
 
-🌐 **Live Portfolio Website:** [resume-lemon-eta.vercel.app](https://resume-lemon-eta.vercel.app)  
+🌐 **Live Portfolio Website:** [dataanalystresume.vercel.app](https://dataanalystresume.vercel.app/)  
 📫 **Contact:** [amanbishtab99@gmail.com](mailto:amanbishtab99@gmail.com) | +91 7973478552 | [LinkedIn Profile](https://linkedin.com/in/aman-bisht)
 
 ---
