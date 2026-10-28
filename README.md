@@ -125,4 +125,4 @@ Dataset_Analysis/
 - **Mobile:** +91 7973478552  
 - **LinkedIn:** [linkedin.com/in/aman-bisht](https://linkedin.com/in/aman-bisht)  
 - **GitHub:** [github.com/AmanBeast](https://github.com/AmanBeast)  
-- **Portfolio Website:** [resume-lemon-eta.vercel.app](https://resume-lemon-eta.vercel.app)
+- **Portfolio Website:** [dataanalyst-resume.vercel.app](https://dataanalystresume.vercel.app)
